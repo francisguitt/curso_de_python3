@@ -51,7 +51,7 @@ Nenhum! O curso parte do básico e ensina tudo o que você precisa saber para ap
 ## 🚀 Comece Agora
 
 📺 Acesse o canal no YouTube para acompanhar as aulas:  
-🔗 [Canal do Francis no YouTube](https://youtube.com/seucanal) *(substitua pelo link real)*
+🔗 [Canal no YouTube](www.youtube.com/@guitt-web-code)
 
 ---
 
